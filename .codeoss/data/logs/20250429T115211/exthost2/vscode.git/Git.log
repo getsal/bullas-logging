@@ -1,0 +1,50 @@
+2025-04-29 12:12:18.734 [info] [main] Log level: Info
+2025-04-29 12:12:18.734 [info] [main] Validating found git in: "git"
+2025-04-29 12:12:18.734 [info] [main] Using git "2.43.0" from "git"
+2025-04-29 12:12:18.734 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-29 12:12:18.734 [info] > git rev-parse --show-toplevel [106ms]
+2025-04-29 12:12:18.734 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:12:18.734 [info] > git rev-parse --show-toplevel [4ms]
+2025-04-29 12:12:18.734 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:12:18.740 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-29 12:12:18.740 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:12:18.746 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-29 12:12:18.746 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:12:18.947 [info] > git rev-parse --show-toplevel [196ms]
+2025-04-29 12:12:18.947 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:12:18.969 [info] > git rev-parse --show-toplevel [14ms]
+2025-04-29 12:12:18.969 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:12:20.961 [info] > git rev-parse --show-toplevel [1976ms]
+2025-04-29 12:12:20.961 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:12:20.994 [info] > git rev-parse --show-toplevel [5ms]
+2025-04-29 12:12:20.994 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:12:21.300 [info] > git rev-parse --show-toplevel [90ms]
+2025-04-29 12:12:21.300 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:12:21.368 [info] > git rev-parse --show-toplevel [32ms]
+2025-04-29 12:12:21.368 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:12:21.369 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-29 12:13:13.143 [info] > git rev-parse --show-toplevel [4ms]
+2025-04-29 12:13:13.143 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:13:17.278 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-29 12:13:17.278 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:14:03.681 [info] > git rev-parse --show-toplevel [4ms]
+2025-04-29 12:14:03.681 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:14:05.042 [info] > git rev-parse --show-toplevel [3ms]
+2025-04-29 12:14:05.042 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-29 12:18:14.757 [info] > git rev-parse --show-toplevel [4ms]
+2025-04-29 12:18:14.758 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

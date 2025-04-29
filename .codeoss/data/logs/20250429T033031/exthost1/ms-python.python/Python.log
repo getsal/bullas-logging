@@ -1,0 +1,53 @@
+2025-04-29 03:30:41.035 [warning] Dir "/home/getsal030/.pixi/envs" is not watchable (directory does not exist)
+2025-04-29 03:30:41.035 [info] Starting Environment refresh
+2025-04-29 03:30:41.035 [info] Searching for interpreters in posix paths locator
+2025-04-29 03:30:41.035 [info] Searching for pyenv environments
+2025-04-29 03:30:41.035 [info] Searching for conda environments
+2025-04-29 03:30:41.035 [info] Searching for global virtual environments
+2025-04-29 03:30:41.035 [info] Searching for custom virtual environments
+2025-04-29 03:30:41.035 [info] pyenv is not installed
+2025-04-29 03:30:41.036 [info] Finished searching for pyenv environments: 28 milliseconds
+2025-04-29 03:30:41.036 [info] Finished searching for custom virtual envs: 26 milliseconds
+2025-04-29 03:30:41.036 [info] > conda info --json
+2025-04-29 03:30:41.036 [info] > hatch env show --json
+2025-04-29 03:30:41.036 [info] cwd: .
+2025-04-29 03:30:41.036 [info] > pyenv which python
+2025-04-29 03:30:41.036 [info] cwd: .
+2025-04-29 03:30:41.036 [info] Finished searching for global virtual envs: 73 milliseconds
+2025-04-29 03:30:41.050 [info] Found: /bin/python --> /bin/python3.12
+2025-04-29 03:30:41.058 [info] Found: /bin/python3 --> /bin/python3.12
+2025-04-29 03:30:41.076 [info] Found: /bin/python3.12 --> /bin/python3.12
+2025-04-29 03:30:41.234 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2025-04-29 03:30:41.238 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2025-04-29 03:30:41.238 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2025-04-29 03:30:41.315 [info] Finished searching for interpreters in posix paths locator: 392 milliseconds
+2025-04-29 03:30:41.316 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-04-29 03:30:41.368 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-04-29 03:30:41.368 [info] Environments refresh paths discovered (event): 454 milliseconds
+2025-04-29 03:30:41.368 [info] Environments refresh paths discovered: 455 milliseconds
+2025-04-29 03:30:41.476 [info] Environments refresh finished (event): 563 milliseconds
+2025-04-29 03:30:41.494 [info] Environment refresh took 580 milliseconds
+2025-04-29 03:30:41.517 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/getsal030/requirements.txt
+2025-04-29 03:30:41.517 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
+2025-04-29 03:30:41.519 [info] Python interpreter path: /bin/python
+2025-04-29 03:30:44.939 [info] Starting Jedi language server for getsal030.

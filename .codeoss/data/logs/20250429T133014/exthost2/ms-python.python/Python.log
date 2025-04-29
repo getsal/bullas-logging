@@ -1,0 +1,40 @@
+2025-04-29 13:40:29.197 [warning] Dir "/home/getsal030/.pixi/envs" is not watchable (directory does not exist)
+2025-04-29 13:40:29.197 [info] Python interpreter path: /bin/python
+2025-04-29 13:40:29.814 [info] > pyenv which python
+2025-04-29 13:40:29.814 [info] cwd: .
+2025-04-29 13:40:34.737 [info] Starting Jedi language server for getsal030.
+2025-04-29 13:56:08.245 [info] Discover tests for workspace name: getsal030 - uri: /home/getsal030/15min_monitor.py
+2025-04-29 13:56:09.088 [info] Discover tests for workspace name: getsal030 - uri: /home/getsal030/15min_monitor.py
+2025-04-29 13:56:58.236 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/getsal030/requirements.txt
+2025-04-29 13:56:58.236 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
+2025-04-29 14:01:07.005 [info] Discover tests for workspace name: getsal030 - uri: /home/getsal030/15min_monitor.py
+2025-04-29 14:01:09.981 [info] Discover tests for workspace name: getsal030 - uri: /home/getsal030/15min_monitor.py
+2025-04-29 14:09:01.017 [info] Discover tests for workspace name: getsal030 - uri: /home/getsal030/15min_monitor.py
+2025-04-29 14:09:13.560 [info] Discover tests for workspace name: getsal030 - uri: /home/getsal030/15min_monitor.py
+2025-04-29 14:09:35.419 [info] Discover tests for workspace name: getsal030 - uri: /home/getsal030/15min_monitor.py
+2025-04-29 14:09:48.661 [info] Discover tests for workspace name: getsal030 - uri: /home/getsal030/15min_monitor.py
+2025-04-29 14:09:51.829 [info] Discover tests for workspace name: getsal030 - uri: /home/getsal030/15min_monitor.py
+2025-04-29 14:12:45.699 [info] Discover tests for workspace name: getsal030 - uri: /home/getsal030/15min_monitor.py
+2025-04-29 14:14:39.159 [info] Discover tests for workspace name: getsal030 - uri: /home/getsal030/15min_monitor.py
+2025-04-29 14:14:49.747 [info] Discover tests for workspace name: getsal030 - uri: /home/getsal030/15min_monitor.py
+2025-04-29 14:15:11.922 [info] Discover tests for workspace name: getsal030 - uri: /home/getsal030/15min_monitor.py
