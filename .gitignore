@@ -1,0 +1,58 @@
+# ====================
+# Python
+# ====================
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# ====================
+# VSCode / Editor
+# ====================
+.vscode/
+.idea/
+
+# ====================
+# OS Specific
+# ====================
+.DS_Store
+Thumbs.db
+
+# ====================
+# Logs and temp
+# ====================
+*.log
+*.tmp
+
+# ====================
+# Environment / Secrets
+# ====================
+.env
+*.env
+.env.*
+
+# ====================
+# Google Cloud Shell
+# ====================
+.cache/
+.codeoss/
+.config/
+.docker/
+.gsutil/
+.npm/
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.sudo_as_admin_successful
+
+# ====================
+# Node (念のため)
+# ====================
+node_modules/
+
+# ====================
+# Docker
+# ====================
+*.tar
