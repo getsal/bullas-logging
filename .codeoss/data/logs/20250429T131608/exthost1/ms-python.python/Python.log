@@ -1,5 +1,0 @@
-2025-04-29 13:16:15.449 [warning] Dir "/home/getsal030/.pixi/envs" is not watchable (directory does not exist)
-2025-04-29 13:16:15.449 [info] Python interpreter path: /bin/python
-2025-04-29 13:16:15.469 [info] > pyenv which python
-2025-04-29 13:16:15.470 [info] cwd: .
-2025-04-29 13:16:21.065 [info] Starting Jedi language server for getsal030.
