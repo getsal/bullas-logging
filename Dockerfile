@@ -1,8 +1,8 @@
 FROM python:3.11-slim
 
 WORKDIR /app
-COPY . /app
+COPY . .
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-CMD ["python", "15min_monitor.py"]
+CMD ["python", "click_logger.py"]
